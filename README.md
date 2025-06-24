@@ -1,5 +1,5 @@
 # Path-Planning-with-Mirobot
-# 6-DOF Robotic Arm with Inverse Kinematics
+# Manipulating 6-DOF Robotic Arm with Inverse Kinematics
 
 This repository contains the complete path planning with Mirobot Manipulator arm. The project explores the design, modeling, control, and execution of trajectory-based manipulation tasks using a 6-DOF robotic arm and gesture-based control methods. The end goal is to **demonstrate joint-space and cartesian space path planning**, validated using **CoppeliaSim** and the **Mirobot platform**.
 
